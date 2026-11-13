@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Leon 👋
+
+## About Me
+- 🎓 German Language Student
+- 💻 Learning Git, GitHub and Python
+- 📈 Interested in Business, AI and Technology
+
+## My Goals
+- Develop programming skills
+- Build practical AI applications
+- Explore interdisciplinary opportunities
 
 <!--
 **leonlin0000/leonlin0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
